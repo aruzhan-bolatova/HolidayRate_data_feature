@@ -24,3 +24,5 @@ This data feature empowers travelers to make informed decisions about their trav
 Investigate alternative data sources for IATA codes. 
 
 - Data Validation: Implement checks to ensure that the user inputs are valid, such as checking if the country code exists,validating the date format, confirming that the IATA codes are valid
+
+# AS AN EXAMPLE, CHECK THE EXECUTION OUTPUT OF THE LAST CODE BLOCK IN Data_feature_final.ipynb
